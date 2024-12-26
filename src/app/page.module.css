@@ -165,4 +165,8 @@ a.secondary {
   .logo {
     filter: invert();
   }
+  .card-img-top{
+    height: 100px;
+    object-fit: contain;
+      }
 }
